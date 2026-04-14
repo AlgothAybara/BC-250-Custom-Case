@@ -9,15 +9,15 @@ Complete list of components used in the project, with direct links for purchase.
 
 ## 🛠️ Tools
 
-- **Hakko 508 Soldering Iron****
+- **Hakko 508 Soldering Iron**
   This one is cheap, but it doesn't have temp controls. 
   Link: https://www.amazon.com/Hakko-508-1-Solder-Iron-Lightweight/dp/B009SCL4AQ/ref=sr_1_1?crid=33MC1GDU1QVBM&dib=eyJ2IjoiMSJ9.yNtNZrixT7mkPkPOHaMBtG9zzxWC7VO8HE2kyorSppbfhjWqeQgyNg16opM6OsJyvYaIjFk0S3Vt23fp4HY02_Q4qW3w8V-Sr5XnowHiR8TFHdF-NbYA7dIkohX5TVCU5iP5JpcwngobaSykU3BFA09lx7_W1JJklazuDPjCl0ULGdmyZ-76pltedx_6NbNpwXUELIbQ3GiqzFDx5-mZ0nkbaG8IisGsM6H7yYLfJ1AbUEOefPYHJkYzmAzdVAJ9-SqKOzTgp_51cTD-Uh0rD37eSCaTlAgiILiROavLYE4.QhgvZ2Pu0bC1v_swx3noqLcSVA7NUUFjgy2rCIBUPE8&dib_tag=se&keywords=hakko+508&qid=1776140227&sprefix=hakko+508%2Caps%2C176&sr=8-1
 
-- **Bit/Screw Driver Set****
+- **Bit/Screw Driver Set**
   No link, find one you like.
 ---
 
-## 🔩 Fasteners**
+## 🔩 Fasteners
   (I used fasteners I had on hand and have multiple, different sized fastenersinserts installed on mine)
 
 - **M3x6 Screws**
