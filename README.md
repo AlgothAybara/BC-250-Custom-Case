@@ -62,8 +62,22 @@ Complete list of components used in the project, with direct links for purchase.
 
 ## ⚡ Cables and Electrical Components
 
-- **Power Supply**  
+- **Apevia 400W Power Supply**  
   Link: https://www.amazon.com/dp/B0CWN49V13?ref=ppx_yo2ov_dt_b_fed_asin_title
   
 - **24-pin PSU Switch**  
   Link: https://www.amazon.com/dp/B09XTYKHV5?ref=ppx_yo2ov_dt_b_fed_asin_title
+
+
+  **PLACEHOLDER**
+  This is a remix of isaacalvex's remix of Arthrimus's project.
+
+I've made modifications to isaac's version to fit the parts I found available in the US for this case. 
+All necessary materials will be available on GitHub: https://github.com/AlgothAybara/BC-250-Custom-Case/blob/main/README.md
+
+Modified/new pieces include the front panel, button backings, and usb board supports. All other files come from Isaac's project. 
+
+
+This can be printed to have no supports if done in parts. I've cut button backings off so the front panel can be printed supportless. This allows you to either design your own button backings or reorder them however you want. 
+
+I recommend printing on PETG.
