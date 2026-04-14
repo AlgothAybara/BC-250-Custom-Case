@@ -2,70 +2,68 @@
 
 ![AMD BC-250 Custom Steam Machine](https://github.com/user-attachments/assets/054dce06-1e0c-4125-b9cd-1b2700f88108)
 
-## 📦 Itens obrigatórios para a montagem
+## 📦 Items Required for Assembly
 
-Lista completa dos componentes utilizados no projeto, com links diretos para compra.
-
----
-
-## 🔩 Fixação
-
-- **Parafusos M3x6**  
-  Quantidade: 20 unidades  
-  Link: https://pt.aliexpress.com/item/1005007345768217.html
-
-- **Insertos M3x6**  
-  Quantidade: 15 unidades  
-  Link: https://pt.aliexpress.com/item/1005008301352294.html
+Complete list of components used in the project, with direct links for purchase.
 
 ---
 
-## 🔌 Conectividade e Controle
+## 🔩 Fasteners
+(I used fasteners I had on hand and have multiple, different sized fastenersinserts installed on mine)
 
-- **Hub USB 3.0 (4 portas)**  
-  Quantidade: 1 unidade  
-  Link: https://mercadolivre.com/sec/2uJBcMX
 
-- **Hub PWM para múltiplos fans (até 5)**  
-  Quantidade: 1 unidade  
-  Link: https://mercadolivre.com/sec/1Yk9tYN
+- **M3x6 Screws**
+  Quantity: 20 units
 
----
-
-## 🌀 Ventilação
-
-- **Fans 120 mm — 4 pinos**  
-  Quantidade: 2 unidades  
-  Link: https://mercadolivre.com/sec/2zHXMnQ
+- **M3x6 Inserts**
+  Quantity: 15 units
 
 ---
 
-## 🔘 Botões e Ativadores
+## 🔌 Connectors
 
-- **Botão com trava (Azul)**  
-  Quantidade: 1 unidade  
-  Link: https://mercadolivre.com/sec/2JBbnZW
+- **Hub USB 3.0 (4 ports)**  
+  Link: https://www.amazon.com/dp/B0FFSMFTYW?ref=ppx_yo2ov_dt_b_fed_asin_title
 
-- **Botão sem trava (Amarelo)**  
-  Quantidade: 1 unidade  
-  Link: https://mercadolivre.com/sec/223wKj9
-
----
-
-## 🎮 Cabos de Vídeo
-
-- **Cabo DisplayPort → HDMI (Ugreen, 4K / Full HD, 3 m)**  
-  Quantidade: 1 unidade  
-  Link: https://mercadolivre.com/sec/1DfXfEv
+- **Fan Hub PWM (OPTIONAL)**  
+  (I didn't use one, find one that fits your needs)
+  
+- **Fan Splitter (OPTIONAL)**  
+  Link: https://www.amazon.com/JBtek-Black-Sleeved-Splitter-Converter/dp/B01EF9OI0O/ref=sr_1_4?crid=T0WR963W46OJ&dib=eyJ2IjoiMSJ9.7IH_gYyGjolZDrZ9lduNksRYwvmz8k2lTOzrUJdZZUUKBFbXBOX-aXosmLCtEnqC1T8IdtjSZouZDDE18BsuxDa_jM2hWX9hvphJRZt1pNnNNNDbr-X3e1LncsaCDGi-VtCepzlWu0SuKUptty7-rQikCeObnmrzX1lxpCJerOY5KoPf2RP066MkKB7L9Jj3hTJ_H26_-cbRmoVkeFsf1ilw7FDTZY5Nf0GYlKyNTq1gI3bXY1OZYLK3_n7jFd6fwZTdIgW03K3jlx0ffNbJvmGR6UWrMDFZ2WFFMcAxBd0.AsYPqvMlc_byH0erEQiPxWAz1qHAcXjRS7kMFnqXLIo&dib_tag=se&keywords=pwm+fan+splitter&qid=1776139235&s=electronics&sprefix=pwm+fan+splitt%2Celectronics%2C160&sr=1-4
 
 ---
 
-## ⚡ Cabos e Componentes Elétricos
+## 🌀 Fans
 
-- **Cabo PCI-E 8 pinos (fonte)**  
-  Quantidade: 1 unidade  
-  Link: https://mercadolivre.com/sec/2PYv3qZ
+- **Noctua 120mm High Static Pressure Fans (Preferred)**  
+  Quanity: 2 units  
+  Link: https://www.amazon.com/Noctua-redux-1700-high-Performance-Award-Winning-Affordable/dp/B07CG2PGY6/ref=sr_1_1?crid=38JTN1K7CMGIP&dib=eyJ2IjoiMSJ9.bu6wFufMHsITZDsX5St_OFzAkMkewgn8FCJCh931Ijf6ZBO3QFIcHIoelgDhHkdAfokqcZ44EGj9pXT_5MolA240QEiObV2rU5g9KE_PfuJi226kI2yCMOCO-lA6P6YHYZ7rqlB4zxan4zt1oKy0C4dcWbBlEm9qLv72V1JHaADJEP1RZCoDvfHvYRph04WH76_nwfERIFRG4He6-EZ9eswAEub49gqJGvIs5X-UUAj1U-Cc-_JNfmIJtsGg4gc3-R0DCRO6atDaL3TjlHPTY-f43yDmLy-Mn5Rlt4Y0Kfg.uBeoLOkfS7AQxuI8_Uu3GHyN_dcvZJBR7aW62SVrScQ&dib_tag=se&keywords=noctua+120+mm+static+pressure+grey&qid=1776139101&s=electronics&sprefix=noctua+120+mm+static+pressure+grey%2Celectronics%2C142&sr=1-1
 
-- **Resistor 580 ohms (para fonte)**  
-  Quantidade: 1 unidade  
-  Link: https://mercadolivre.com/sec/2ZoQ9BT
+---
+
+## 🔘 Buttons
+
+- **8x8mm Toggle Button**  (Wired to 24-Pin PSU)
+  Quantity: 1   
+  Link: https://www.amazon.com/dp/B082WB66W1?ref=ppx_yo2ov_dt_b_fed_asin_title
+
+- **8x8mm Momentary Button**  (Wired to BC-250 power button)
+  Quantity: 1   
+  Link: https://www.amazon.com/dp/B0DP2GR3FD?ref=ppx_yo2ov_dt_b_fed_asin_title
+
+---
+
+## 🎮 Video Cable
+
+- **Display to HDMI Adapter (PASSIVE)**  
+  Link: https://www.gigaparts.com/1080p-passive-displayport-to-hdmi-adapter.html?srsltid=AfmBOor5Mtw8lSRiJoyk9D_PPJvgLy2snhSxm6sVGTcO9j9MRQcVmO3c
+
+---
+
+## ⚡ Cables and Electrical Components
+
+- **Power Supply**  
+  Link: https://www.amazon.com/dp/B0CWN49V13?ref=ppx_yo2ov_dt_b_fed_asin_title
+  
+- **24-pin PSU Switch**  
+  Link: https://www.amazon.com/dp/B09XTYKHV5?ref=ppx_yo2ov_dt_b_fed_asin_title
